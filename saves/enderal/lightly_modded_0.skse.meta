@@ -1,0 +1,18 @@
+[cosave_header]
+savefile_tag = "SKSE"
+format_version = 1
+se_version = 48
+se_minor_version = 263
+game_version = 0x09200000
+num_plugin_chunks = 4
+
+[cosave_body]
+cosave_masters = [
+    "Skyrim.esm",
+    "Update.esm",
+    "Enderal - Forgotten Stories.esm",
+    "RaceMenu.esp",
+    "EHQM.esp",
+    "Bashed Patch, 0.esp",
+]
+masters_are_accurate = true
