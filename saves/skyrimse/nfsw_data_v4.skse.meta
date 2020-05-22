@@ -1,0 +1,37 @@
+[cosave_header]
+savefile_tag = "SKSE"
+format_version = 1
+se_version = 272
+se_minor_version = 512
+game_version = 0x01050610
+num_plugin_chunks = 6
+
+[cosave_body]
+cosave_masters = [
+    "Skyrim.esm",
+    "Update.esm",
+    "Dawnguard.esm",
+    "HearthFires.esm",
+    "Dragonborn.esm",
+    "ccbgssse002-exoticarrows.esl",
+    "ccbgssse010-petdwarvenarmoredmudcrab.esl",
+    "cctwbsse001-puzzledungeon.esm",
+    "ccedhsse001-norjewel.esl",
+    "ccbgssse016-umbra.esm",
+    "Unofficial Skyrim Special Edition Patch.esp",
+    "Unofficial Arcane Archer Pack Patch.esl",
+    "Unofficial Dwarven Armored Mudcrab Patch.esl",
+    "Unofficial Forgotten Seasons Patch.esl",
+    "Unofficial Nordic Jewelry Patch.esl",
+    "Unofficial Umbra Patch.esl",
+    "FISS.esp",
+    "SexLab.esm",
+    "Schlongs of Skyrim - Core.esm",
+    "SkyUI_SE.esp",
+    "Alternate Start - Live Another Life.esp",
+    "Schlongs of Skyrim.esp",
+    "SOS - VectorPlexus Muscular Addon.esp",
+    "SOS - Smurf Average Addon.esp",
+    "SOS - VectorPlexus Regular Addon.esp",
+]
+masters_are_accurate = true
