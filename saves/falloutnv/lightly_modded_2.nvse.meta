@@ -1,0 +1,32 @@
+[cosave_header]
+savefile_tag = "NVSE"
+format_version = 1
+se_version = 5
+se_minor_version = 1
+game_version = 0x040020D0
+num_plugin_chunks = 1
+
+[cosave_body]
+cosave_masters = [
+    "FalloutNV.esm",
+    "DeadMoney.esm",
+    "HonestHearts.esm",
+    "OldWorldBlues.esm",
+    "LonesomeRoad.esm",
+    "GunRunnersArsenal.esm",
+    "ClassicPack.esm",
+    "MercenaryPack.esm",
+    "TribalPack.esm",
+    "CaravanPack.esm",
+    "YUP - Base Game + All DLC.esm",
+    "SolidProject.esm",
+    "Unofficial Patch Plus.esp",
+    "Unofficial Patch Plus - Addendum.esp",
+    "The Mod Configuration Menu.esp",
+    "Vanilla UI Plus.esp",
+    "LootMenu.esp",
+    "IntegratedFullDLC.esp",
+    "Machienzo-RadioNewVegasFixv11.esp",
+    "Bashed Patch, 0.esp",
+]
+masters_are_accurate = true
